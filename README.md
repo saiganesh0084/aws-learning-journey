@@ -33,7 +33,7 @@ This repository documents my progress in learning Amazon Web Services (AWS) thro
 ```text
 aws-learning-journey/
 │
-├── notes/
+├── dailynotes/
 ├── projects/
 ├── diagrams/
 ├── screenshots/
@@ -52,6 +52,7 @@ For each AWS service, I will:
 
 ## Progress Tracker
 
+* [x] AWS account creation
 <!--
 * [ ] IAM
 * [ ] S3
